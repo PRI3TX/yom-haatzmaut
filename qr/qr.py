@@ -1,7 +1,7 @@
 import qrcode
 
 # Datos a codificar
-datos = "https://www.canva.com/design/DAGjnLLS9RA/YtcwVyONgRhx20KHtIE-DA/edit?utm_content=DAGjnLLS9RA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+datos = "https://view.genially.com/67eef1a692f367939c9d6872/interactive-image-escenario-iom-haatzmaut-77"
 
 # Crear el objeto QR
 qr = qrcode.QRCode(
